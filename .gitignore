@@ -1,0 +1,19 @@
+# Logs
+*.log
+
+# Dependency Directory
+node_modules
+
+# Webpack
+#/public/
+
+# Static
+#/markup/
+
+# Documentation
+/doc/
+
+### Code ###
+# Visual Studio Code
+.settings/
+.vscode/
